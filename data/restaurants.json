@@ -1,0 +1,108 @@
+[
+  {
+    "restaurant_name": "The Creamery",
+    "timeslot": "breakfast",
+    "rating": 4.2,
+    "lat": 37.7774628,
+    "lng": -122.3973465
+  },
+ 
+  {
+    "restaurant_name": "Cafe Centro",
+    "timeslot": "lunch",
+    "rating": 4.3,
+    "lat": 37.7817154,
+    "lng": -122.3964454
+  },
+  {
+    "restaurant_name": "Cafe Centro1",
+    "timeslot": "lunch",
+    "rating": 4.3,
+    "lat": 37.7817154,
+    "lng": -122.3964454
+  },
+  {
+    "restaurant_name": "Sweetgreen",
+    "timeslot": "dinner",
+    "rating": 4.4,
+    "lat": 37.7872625,
+    "lng": -122.4008233
+  },
+  {
+    "restaurant_name": "Mexico Au Parc",
+    "timeslot": "lunch",
+    "rating": 4.3,
+    "lat": 37.7822884,
+    "lng": -122.3958525
+  },
+  {
+    "restaurant_name": "Delancey Street Restaurant",
+    "timeslot": "dinner",
+    "rating": 4.5,
+    "lat": 37.7843599,
+    "lng": -122.3906229
+  },
+  {
+    "restaurant_name": "Rooster & Rice",
+    "timeslot": "dinner",
+    "rating": 4.3,
+    "lat": 37.785322,
+    "lng": -122.3976747
+  },
+  {
+    "restaurant_name": "Blue Bottle Coffee",
+    "timeslot": "breakfast",
+    "rating": 4.5,
+    "lat": 37.7824756,
+    "lng": -122.3953044
+  },
+  {
+    "restaurant_name": "Lee's Deli",
+    "timeslot": "lunch",
+    "rating": 4.1,
+    "lat": 37.7853216,
+    "lng": -122.4042408
+  },
+  {
+    "restaurant_name": "Bravado Coffee",
+    "timeslot": "breakfast",
+    "rating": 4.5,
+    "lat": 37.7787631,
+    "lng": -122.3935401
+  },
+  {
+    "restaurant_name": "Rooh",
+    "timeslot": "dinner",
+    "rating": 4.4,
+    "lat": 37.7812954,
+    "lng": -122.3947494
+  },
+  {
+    "restaurant_name": "Soma Pizza",
+    "timeslot": "lunch",
+    "rating": 4,
+    "lat": 37.781729,
+    "lng": -122.3981837
+  },
+  {
+    "restaurant_name": "Tender Greens",
+    "timeslot": "lunch",
+    "rating": 4.2,
+    "lat": 37.7773353,
+    "lng": -122.3955456
+  },
+  {
+    "restaurant_name": "Philz Coffee",
+    "timeslot": "breakfast",
+    "rating": 4.6,
+    "lat": 37.7887133,
+    "lng": -122.3952601
+  },
+  {
+    "restaurant_name": "Red Dog",
+    "timeslot": "dinner",
+    "rating": 4.1,
+    "lat": 37.784809,
+    "lng": -122.3976457
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "recommendation-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node app.ts"
+  },
+  "author": "AmreeshTyagi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "csv-parse": "^5.0.4",
+    "point-in-polygon-hao": "^1.1.0",
+    "robust-point-in-polygon": "^1.0.3",
+    "ts-node": "^10.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "@types/robust-point-in-polygon": "^1.0.2"
+  }
+}
