@@ -64,7 +64,7 @@ function recommend(pointList: IVisitorNearestPoint[], visitor: IVisitor) {
   if (finalList.length) {
     console.log("                         ");
     console.log("----------------------");
-    console.log(`Top 3 restaurants are:`);
+    console.log(`Top nearby restaurants are:`);
     console.log("----------------------");
 
     finalList.forEach((item) => {

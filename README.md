@@ -27,15 +27,10 @@ This command will install all dependencies & dev dependencies.
 
 This application can be run with or without passing any runtime arguments.
 
-1. Running with **FIFO strategy**
+Running with npm
    ```sh
-   npm run dev --strategy=FIFO
+   npm run start
    ```
-2. Running with **MATCHED strategy**
-   ```sh
-   npm run dev --strategy=MATCHED
-   ```
-3. Runnig without any arguments. Default setting is **FIFO**
-    ```sh
-   npm run dev
-   ```
+
+### Issues
+There can be some bugs into this code. Feel free to report issue or raise PR.
